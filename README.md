@@ -1,1 +1,1 @@
-# Erenka123654-PDKS-ESP32-Bilgi-Islem
+PDKS-ESP32-Bilgi-Islem
